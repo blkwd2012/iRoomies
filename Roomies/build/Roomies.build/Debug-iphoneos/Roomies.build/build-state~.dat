@@ -1,0 +1,2619 @@
+TRoomies
+v7
+r1
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk
+c000000004C6DE9E30000000000000110
+t1282271715
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+c000000004C578FA900000000000001E5
+t1280806825
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c000000004C5A53F200000000000C8850
+t1280988146
+s821328
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/AddressBookUI.framework/AddressBookUI
+c000000004C5E20D600000000002387D0
+t1281237206
+s2328528
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/AddressBookUI.framework/Headers/AddressBookUI.h
+c000000004C5E20B80000000000000202
+t1281237176
+s514
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004C5A524A00000000002CE430
+t1280987722
+s2942000
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h
+c000000004C5A517D00000000000004CF
+t1280987517
+s1231
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A51050000000000345F00
+t1280987397
+s3432192
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A52B100000000003E1EF0
+t1280987825
+s4071152
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A527F0000000000001466
+t1280987775
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004C6C31EB00000000000002FE
+t1282159083
+s766
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004C6C320B00000000002801E0
+t1282159115
+s2621920
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C62427000000000000009CD
+t1281507952
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C62430F0000000002EBC2B0
+t1281508111
+s49005232
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/CommonCrypto/CommonDigest.h
+c000000004C5790370000000000002407
+t1280806967
+s9223
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/arpa/inet.h
+c000000004C5790620000000000001533
+t1280807010
+s5427
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/dns_sd.h
+c000000004C5A41B3000000000001D2D0
+t1280983475
+s119504
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/dns_util.h
+c000000004C5A49480000000000001F11
+t1280985416
+s7953
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/inttypes.h
+c000000004C57909100000000000027D1
+t1280807057
+s10193
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/libxml2/libxml/parser.h
+c000000004C5A50CB00000000000098A9
+t1280987339
+s39081
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/libxml2/libxml/parserInternals.h
+c000000004C5A50CB00000000000040BD
+t1280987339
+s16573
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/libxml2/libxml/tree.h
+c000000004C5A50CB0000000000008F14
+t1280987339
+s36628
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/libxml2/libxml/xpath.h
+c000000004C5A50CC0000000000003F47
+t1280987340
+s16199
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/libxml2/libxml/xpathInternals.h
+c000000004C5A50CC0000000000004BF8
+t1280987340
+s19448
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/netdb.h
+c000000004C57909B000000000000307F
+t1280807067
+s12415
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/netinet/in.h
+c000000004C5A4AAE0000000000005462
+t1280985774
+s21602
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/objc/runtime.h
+c000000004C5A491500000000000053F9
+t1280985365
+s21497
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/stdlib.h
+c000000004C5790910000000000002DF5
+t1280807057
+s11765
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/sys/socket.h
+c000000004C5A4AB400000000000059D6
+t1280985780
+s22998
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/sys/types.h
+c000000004C5A4AB50000000000002905
+t1280985781
+s10501
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/unistd.h
+c000000004C579091000000000000563E
+t1280807057
+s22078
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/lib/gcc/arm-apple-darwin10/4.2.1/include/limits.h
+c000000004C44E63A0000000000000C7E
+t1279583802
+s3198
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/lib/gcc/arm-apple-darwin10/4.2.1/include/stddef.h
+c000000004C44E63A0000000000003197
+t1279583802
+s12695
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/lib/gcc/arm-apple-darwin10/4.2.1/include/stdint.h
+c000000004C44E777000000000000190C
+t1279584119
+s6412
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/lib/libresolv.dylib
+c000000004C5A49480000000000044210
+t1280985416
+s279056
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/11-clock.png
+c000000004CB898B00000000000000CF4
+t1287166128
+s3316
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Account.xib
+c000000004CF2ED280000000000016965
+t1290988840
+s92517
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/AddBill2.png
+c000000004CF1751E0000000000000D8A
+t1290892574
+s3466
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/AddressBookViewController.h
+c000000004CE84C5C00000000000002C0
+t1290292316
+s704
+i<UIKit/UIKit.h>
+i<AddressBookUI/AddressBookUI.h>
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/BBQ.png
+c000000004CE817840000000000000625
+t1290278788
+s1573
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/BSAddressComponent.h
+c000000004CD6A77000000000000001A0
+t1289135984
+s416
+i<Foundation/Foundation.h>
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/BSForwardGeocoder.h
+c000000004CD6A9DE0000000000000492
+t1289136606
+s1170
+i<Foundation/Foundation.h>
+i"BSGoogleV2KmlParser.h"
+i"BSGoogleV3KmlParser.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/BSGoogleV2KmlParser.h
+c000000004CDA1DEA0000000000000271
+t1289362922
+s625
+i<Foundation/Foundation.h>
+i"BSKmlResult.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/BSGoogleV3KmlParser.h
+c000000004CDA1E14000000000000036B
+t1289362964
+s875
+i<Foundation/Foundation.h>
+i"BSKmlResult.h"
+i"BSAddressComponent.h"
+i"BSForwardGeocoder.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/BSKmlResult.h
+c000000004CD6A9DE000000000000075A
+t1289136606
+s1882
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+i"BSAddressComponent.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Bake.png
+c000000004CE8173E0000000000000949
+t1290278718
+s2377
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/BillView.xib
+c000000004CF15F04000000000000FE4F
+t1290886916
+s65103
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Cake.png
+c000000004CE817AA0000000000000840
+t1290278826
+s2112
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/../AddressBookViewController.h
+c000000004CE84C5C00000000000002C0
+t1290292316
+s704
+i<UIKit/UIKit.h>
+i<AddressBookUI/AddressBookUI.h>
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/../AddressBookViewController.m
+c000000004CF84A46000000000000132D
+t1291340358
+s4909
+i"AddressBookViewController.h"
+i"InviteViewController.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/../BSAddressComponent.m
+c000000004CD6A9DE000000000000014E
+t1289136606
+s334
+i"BSAddressComponent.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/../BSForwardGeocoder.h
+c000000004CD6A9DE0000000000000492
+t1289136606
+s1170
+i<Foundation/Foundation.h>
+i"BSGoogleV2KmlParser.h"
+i"BSGoogleV3KmlParser.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/../BSForwardGeocoder.m
+c000000004CD6A9DE0000000000000CD4
+t1289136606
+s3284
+i"BSForwardGeocoder.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/../BSGoogleV2KmlParser.m
+c000000004CD6A9DE0000000000001649
+t1289136606
+s5705
+i"BSGoogleV2KmlParser.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/../BSGoogleV3KmlParser.m
+c000000004CD6A9DE0000000000001D68
+t1289136606
+s7528
+i"BSGoogleV3KmlParser.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/../BSKmlResult.h
+c000000004CD6A9DE000000000000075A
+t1289136606
+s1882
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+i"BSAddressComponent.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/../BSKmlResult.m
+c000000004CD6A9DE000000000000090F
+t1289136606
+s2319
+i"BSKmlResult.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/../CustomPlacemark.h
+c000000004CD6A9DE0000000000000283
+t1289136606
+s643
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/../CustomPlacemark.m
+c000000004CD6A9DE0000000000000236
+t1289136606
+s566
+i"CustomPlacemark.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/../EventViewController.m
+c000000004CF2E89C00000000000040C2
+t1290987676
+s16578
+i"EventViewController.h"
+i"EventsViewController.h"
+i"User.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/AccountData.h
+c000000004CE04E70000000000000035B
+t1289768560
+s859
+i<Foundation/Foundation.h>
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/AccountData.m
+c000000004CED4A12000000000000019A
+t1290619410
+s410
+i"AccountData.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/AccountInfoViewController.h
+c000000004CEEA9740000000000000D0D
+t1290709364
+s3341
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+i"BSForwardGeocoder.h"
+i"BSKmlResult.h"
+i"CustomPlacemark.h"
+i"RoomiesViewController.h"
+i"InvitationAccounts.h"
+i"AccountData.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/AccountInfoViewController.m
+c000000004CF2CF6A00000000000069EB
+t1290981226
+s27115
+i"AccountInfoViewController.h"
+i"User.h"
+i"AccountData.h"
+i"RoomiesAppDelegate.h"
+i"InviteViewController.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/ApplicationInfoViewController.h
+c000000004CEF3ECE0000000000000155
+t1290747598
+s341
+i<UIKit/UIKit.h>
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/ApplicationInfoViewController.m
+c000000004CF01B3000000000000008B3
+t1290804016
+s2227
+i"ApplicationInfoViewController.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/AsyncSocket.h
+c000000004CED469200000000000072B2
+t1290618514
+s29362
+i<Foundation/Foundation.h>
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/AsyncSocket.m
+c000000004CED4692000000000001C3CC
+t1290618514
+s115660
+i"AsyncSocket.h"
+i<sys/socket.h>
+i<netinet/in.h>
+i<arpa/inet.h>
+i<netdb.h>
+i<CFNetwork/CFNetwork.h>
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/BillData.h
+c000000004CED88B80000000000000390
+t1290635448
+s912
+i<Foundation/Foundation.h>
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/BillData.m
+c000000004CED88C600000000000001A1
+t1290635462
+s417
+i"BillData.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/BillViewController.h
+c000000004CF0709800000000000009F8
+t1290825880
+s2552
+i<UIKit/UIKit.h>
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/BillViewController.m
+c000000004CF2F92200000000000062EB
+t1290991906
+s25323
+i"BillViewController.h"
+i"BillsViewController.h"
+i"User.h"
+i"BillData.h"
+i"RoomiesAppDelegate.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/BillsNavController.h
+c000000004CC7A36000000000000000E8
+t1288151904
+s232
+i<UIKit/UIKit.h>
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/BillsNavController.m
+c000000004CED9EE4000000000000059C
+t1290641124
+s1436
+i"BillsNavController.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/BillsViewController.h
+c000000004CED9ECE0000000000000587
+t1290641102
+s1415
+i<UIKit/UIKit.h>
+i"BillData.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/BillsViewController.m
+c000000004CF2D06E0000000000003C07
+t1290981486
+s15367
+i"BillsViewController.h"
+i"BillViewController.h"
+i"RoomiesAppDelegate.h"
+i"User.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/BillsViewInfo.xib
+c000000004CF2D14A000000000000894F
+t1290981706
+s35151
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Core/XMPPElement.h
+c000000004CED46840000000000000109
+t1290618500
+s265
+i<Foundation/Foundation.h>
+i"DDXML.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Core/XMPPElement.m
+c000000004CED468400000000000006DA
+t1290618500
+s1754
+i"XMPPElement.h"
+i"XMPPJID.h"
+i"NSXMLElementAdditions.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Core/XMPPIQ.h
+c000000004CED468400000000000008DD
+t1290618500
+s2269
+i<Foundation/Foundation.h>
+i"XMPPElement.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Core/XMPPIQ.m
+c000000004CED46840000000000000BA9
+t1290618500
+s2985
+i"XMPPIQ.h"
+i"XMPPJID.h"
+i"NSXMLElementAdditions.h"
+i<objc/runtime.h>
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Core/XMPPJID.h
+c000000004CED46840000000000000227
+t1290618500
+s551
+i<Foundation/Foundation.h>
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Core/XMPPJID.m
+c000000004CED46840000000000001C95
+t1290618500
+s7317
+i"XMPPJID.h"
+i"LibIDN.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Core/XMPPMessage.h
+c000000004CED468400000000000003D3
+t1290618500
+s979
+i<Foundation/Foundation.h>
+i"XMPPElement.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Core/XMPPMessage.m
+c000000004CED46840000000000000DEA
+t1290618500
+s3562
+i"XMPPMessage.h"
+i"XMPPJID.h"
+i"NSXMLElementAdditions.h"
+i<objc/runtime.h>
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Core/XMPPModule.h
+c000000004CED468400000000000002AA
+t1290618500
+s682
+i<Foundation/Foundation.h>
+i"MulticastDelegate.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Core/XMPPModule.m
+c000000004CED4684000000000000036D
+t1290618500
+s877
+i"XMPPModule.h"
+i"XMPPStream.h"
+i"MulticastDelegate.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Core/XMPPParser.h
+c000000004CED46840000000000000432
+t1290618500
+s1074
+i<Foundation/Foundation.h>
+i<libxml2/libxml/parser.h>
+i"DDXML.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Core/XMPPParser.m
+c000000004CED46840000000000005517
+t1290618500
+s21783
+i"XMPPParser.h"
+i<libxml/parserInternals.h>
+i"DDXMLPrivate.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Core/XMPPPresence.h
+c000000004CED46840000000000000367
+t1290618500
+s871
+i<Foundation/Foundation.h>
+i"XMPPElement.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Core/XMPPPresence.m
+c000000004CED46840000000000000825
+t1290618500
+s2085
+i"XMPPPresence.h"
+i"NSXMLElementAdditions.h"
+i<objc/runtime.h>
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Core/XMPPStream.h
+c000000004CED46840000000000007A91
+t1290618500
+s31377
+i<Foundation/Foundation.h>
+i"MulticastDelegate.h"
+i"DDXML.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Core/XMPPStream.m
+c000000004CF8A95E0000000000013952
+t1291364702
+s80210
+i"XMPPStream.h"
+i"AsyncSocket.h"
+i"MulticastDelegate.h"
+i"RFSRVResolver.h"
+i"XMPPParser.h"
+i"XMPPJID.h"
+i"XMPPIQ.h"
+i"XMPPMessage.h"
+i"XMPPPresence.h"
+i"XMPPModule.h"
+i"NSDataAdditions.h"
+i"NSXMLElementAdditions.h"
+i<CFNetwork/CFNetwork.h>
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/EventData.h
+c000000004CED88DC0000000000000364
+t1290635484
+s868
+i<Foundation/Foundation.h>
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/EventData.m
+c000000004CED88F200000000000001A5
+t1290635506
+s421
+i"EventData.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/EventsNavController.h
+c000000004CCAE50200000000000000F3
+t1288365314
+s243
+i<UIKit/UIKit.h>
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/EventsNavController.m
+c000000004CF2A7920000000000000622
+t1290971026
+s1570
+i"EventsNavController.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/EventsViewController.h
+c000000004CF13F1A00000000000004BC
+t1290878746
+s1212
+i<UIKit/UIKit.h>
+i"EventData.h"
+i"User.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/EventsViewController.m
+c000000004CF2E79E0000000000002B35
+t1290987422
+s11061
+i"EventsViewController.h"
+i"EventViewController.h"
+i"RoomiesAppDelegate.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/InvitationAccounts.h
+c000000004CEB382C0000000000000299
+t1290483756
+s665
+i<UIKit/UIKit.h>
+i"AccountInfoViewController.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/InvitationAccounts.m
+c000000004CF9734A0000000000001201
+t1291416394
+s4609
+i"InvitationAccounts.h"
+i"AccountInfoViewController.h"
+i"User.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/InvitationNavController.h
+c000000004CD20F7C00000000000000FA
+t1288834940
+s250
+i<UIKit/UIKit.h>
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/InvitationNavController.m
+c000000004CD216540000000000000654
+t1288836692
+s1620
+i"InvitationNavController.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/InvitationsViewController.h
+c000000004CEB1F8E00000000000004CB
+t1290477454
+s1227
+i<UIKit/UIKit.h>
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/InvitationsViewController.m
+c000000004CF976BA0000000000001CEC
+t1291417274
+s7404
+i"InvitationsViewController.h"
+i"RoomiesAppDelegate.h"
+i"ApplicationInfoViewController.h"
+i"AccountInfoViewController.h"
+i"User.h"
+i"Parser.h"
+i"InvitationAccounts.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/InviteViewController.h
+c000000004CF8B1A200000000000003F4
+t1291366818
+s1012
+i<UIKit/UIKit.h>
+i"AddressBookViewController.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/InviteViewController.m
+c000000004CF992D60000000000001323
+t1291424470
+s4899
+i"InviteViewController.h"
+i"RoomiesAppDelegate.h"
+i"User.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/KissXML/DDXML.h
+c000000004CED4692000000000000073A
+t1290618514
+s1850
+i"DDXMLNode.h"
+i"DDXMLElement.h"
+i"DDXMLDocument.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/KissXML/DDXMLDocument.h
+c000000004CED46920000000000000807
+t1290618514
+s2055
+i<Foundation/Foundation.h>
+i"DDXMLElement.h"
+i"DDXMLNode.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/KissXML/DDXMLDocument.m
+c000000004CED46920000000000000C5C
+t1290618514
+s3164
+i"DDXMLDocument.h"
+i"NSStringAdditions.h"
+i"DDXMLPrivate.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/KissXML/DDXMLElement.h
+c000000004CED469200000000000006B0
+t1290618514
+s1712
+i<Foundation/Foundation.h>
+i"DDXMLNode.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/KissXML/DDXMLElement.m
+c000000004CED469200000000000042D0
+t1290618514
+s17104
+i"DDXMLElement.h"
+i"NSStringAdditions.h"
+i"DDXMLPrivate.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/KissXML/DDXMLNode.h
+c000000004CED46920000000000001392
+t1290618514
+s5010
+i<Foundation/Foundation.h>
+i<libxml/tree.h>
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/KissXML/DDXMLNode.m
+c000000004CED4692000000000000B885
+t1290618514
+s47237
+i"DDXMLNode.h"
+i"DDXMLElement.h"
+i"DDXMLDocument.h"
+i"NSStringAdditions.h"
+i"DDXMLPrivate.h"
+i<libxml/xpath.h>
+i<libxml/xpathInternals.h>
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/KissXML/DDXMLPrivate.h
+c000000004CED4692000000000000098B
+t1290618514
+s2443
+i"DDXMLNode.h"
+i"DDXMLElement.h"
+i"DDXMLDocument.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/KissXML/NSStringAdditions.h
+c000000004CED469200000000000000FD
+t1290618514
+s253
+i<Foundation/Foundation.h>
+i<libxml/tree.h>
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/KissXML/NSStringAdditions.m
+c000000004CED469200000000000001DD
+t1290618514
+s477
+i"NSStringAdditions.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/LibIDN.h
+c000000004CED468400000000000002F4
+t1290618500
+s756
+i<Foundation/Foundation.h>
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/MulticastDelegate.h
+c000000004CED4684000000000000034F
+t1290618500
+s847
+i<Foundation/Foundation.h>
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/NSDataAdditions.h
+c000000004CED468200000000000000DA
+t1290618498
+s218
+i<Foundation/Foundation.h>
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/NSDataAdditions.m
+c000000004CED468200000000000010F2
+t1290618498
+s4338
+i"NSDataAdditions.h"
+i<CommonCrypto/CommonDigest.h>
+i"SSCrypto.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/NSXMLElementAdditions.h
+c000000004CED4682000000000000076B
+t1290618498
+s1899
+i<Foundation/Foundation.h>
+i"DDXML.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/NSXMLElementAdditions.m
+c000000004CED468200000000000019C5
+t1290618498
+s6597
+i"NSXMLElementAdditions.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Parser.h
+c000000004CE5296800000000000003F8
+t1290086760
+s1016
+i<Foundation/Foundation.h>
+i"AccountData.h"
+i"BillData.h"
+i"RespData.h"
+i"RoomieData.h"
+i"EventData.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Parser.m
+c000000004CF2C7B4000000000000364E
+t1290979252
+s13902
+i"Parser.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/RespData.h
+c000000004CED8A0C000000000000053E
+t1290635788
+s1342
+i<Foundation/Foundation.h>
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/RespData.m
+c000000004CED8A1E0000000000000232
+t1290635806
+s562
+i"RespData.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/ResponNavController.h
+c000000004CC7966600000000000000F4
+t1288148582
+s244
+i<UIKit/UIKit.h>
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/ResponNavController.m
+c000000004CF2B21600000000000006A6
+t1290973718
+s1702
+i"ResponNavController.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/ResponTableViewController.h
+c000000004CF1568A00000000000006C6
+t1290884746
+s1734
+i<UIKit/UIKit.h>
+i"RespData.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/ResponTableViewController.m
+c000000004CF2CD5A00000000000053A0
+t1290980698
+s21408
+i"ResponTableViewController.h"
+i"ResponsibilityViewController.h"
+i"RoomiesAppDelegate.h"
+i"User.h"
+i"Parser.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/ResponsibilityViewController.h
+c000000004CF074B60000000000000B97
+t1290826934
+s2967
+i<UIKit/UIKit.h>
+i"RespData.h"
+i"RoomieData.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/ResponsibilityViewController.m
+c000000004CF2CD8E0000000000006C04
+t1290980750
+s27652
+i"ResponsibilityViewController.h"
+i"RoomiesAppDelegate.h"
+i"User.h"
+i"ResponTableViewController.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/RoomieData.h
+c000000004CEDE1960000000000000211
+t1290658198
+s529
+i<Foundation/Foundation.h>
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/RoomieData.m
+c000000004CED8AAE000000000000012F
+t1290635950
+s303
+i"RoomieData.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/RoomiesAppDelegate.h
+c000000004CF8A9EA0000000000001076
+t1291364842
+s4214
+i<UIKit/UIKit.h>
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/RoomiesAppDelegate.m
+c000000004CF9995800000000000080A2
+t1291426136
+s32930
+i"XMPPJID.h"
+i"XMPPStream.h"
+i"RoomiesAppDelegate.h"
+i"ResponNavController.h"
+i"BillsNavController.h"
+i"EventsNavController.h"
+i"SettingsNavController.h"
+i"ApplicationInfoViewController.h"
+i"ResponTableViewController.h"
+i"RoomiesViewController.h"
+i"BillsViewController.h"
+i"InvitationsViewController.h"
+i"InvitationNavController.h"
+i"User.h"
+i"Parser.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/RoomiesViewController.h
+c000000004CE67B74000000000000039E
+t1290173300
+s926
+i<UIKit/UIKit.h>
+i"RoomieData.h"
+i"RoomiesAppDelegate.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/RoomiesViewController.m
+c000000004CF2E8C000000000000025AE
+t1290987712
+s9646
+i"RoomiesViewController.h"
+i"User.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/SettingsNavController.h
+c000000004CCAEE5A00000000000000F7
+t1288367706
+s247
+i<UIKit/UIKit.h>
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/SettingsNavController.m
+c000000004CCAEE660000000000000627
+t1288367718
+s1575
+i"SettingsNavController.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/SettingsViewController.h
+c000000004CCE1BBC0000000000000601
+t1288575932
+s1537
+i<UIKit/UIKit.h>
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/SettingsViewController.m
+c000000004CF2CDCC00000000000017EF
+t1290980812
+s6127
+i"SettingsViewController.h"
+i"ApplicationInfoViewController.h"
+i"AccountInfoViewController.h"
+i"RoomiesAppDelegate.h"
+i"RoomiesViewController.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/User.h
+c000000004CED9D580000000000000763
+t1290640728
+s1891
+i<Foundation/Foundation.h>
+i"AccountData.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/User.m
+c000000004CED9E46000000000000048A
+t1290640966
+s1162
+i"User.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Utilities/DDLog.h
+c000000004CED4684000000000000063E
+t1290618500
+s1598
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Utilities/LibIDN.h
+c000000004CED468400000000000002F4
+t1290618500
+s756
+i<Foundation/Foundation.h>
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Utilities/LibIDN.m
+c000000004CED4684000000000000055B
+t1290618500
+s1371
+i"LibIDN.h"
+i"stringprep.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Utilities/MulticastDelegate.h
+c000000004CED4684000000000000034F
+t1290618500
+s847
+i<Foundation/Foundation.h>
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Utilities/MulticastDelegate.m
+c000000004CED46840000000000002E01
+t1290618500
+s11777
+i"MulticastDelegate.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Utilities/RFSRVResolver.h
+c000000004CED4684000000000000082D
+t1290618500
+s2093
+i<Foundation/Foundation.h>
+i<dns_sd.h>
+i"XMPPStream.h"
+i"DDLog.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Utilities/RFSRVResolver.m
+c000000004CED46840000000000003E3D
+t1290618500
+s15933
+i"RFSRVResolver.h"
+i<dns_util.h>
+i<stdlib.h>
+i"XMPPStream.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/idn-int.h
+c000000004CED46920000000000003877
+t1290618514
+s14455
+i<stdint.h>
+i<sys/types.h>
+i<limits.h>
+i<inttypes.h>
+i<sys/inttypes.h>
+i<sys/bitypes.h>
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/stringprep.h
+c000000004CED46920000000000001EBB
+t1290618514
+s7867
+i<stddef.h>
+i<unistd.h>
+i"idn-int.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/CleanHouse.png
+c000000004CE817D00000000000000809
+t1290278864
+s2057
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Cook.png
+c000000004CE817F60000000000000727
+t1290278902
+s1831
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/CustomPlacemark.h
+c000000004CD6A9DE0000000000000283
+t1289136606
+s643
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/DefaultResponsibility.png
+c000000004CE81820000000000000092E
+t1290278944
+s2350
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/DropDown.png
+c000000004CF2E3EE00000000000004B1
+t1290986478
+s1201
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/EventView.xib
+c000000004CF2E41E000000000000D3F9
+t1290986526
+s54265
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/EventViewController.h
+c000000004CF1515200000000000008D6
+t1290883410
+s2262
+i<UIKit/UIKit.h>
+i"EventData.h"
+i"ResponTableViewController.h"
+i"RoomiesAppDelegate.h"
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/EventsView.xib
+c000000004CF03D24000000000000952F
+t1290812708
+s38191
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Fireworks.png
+c000000004CE8186600000000000009B4
+t1290279014
+s2484
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Food.png
+c000000004CE818880000000000000927
+t1290279048
+s2343
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/IROOMIES.png
+c000000004CB090E000000000000F8896
+t1286639840
+s1018006
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/IROOMIES2.png
+c000000004CF2EC5C00000000000273ED
+t1290988636
+s160749
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Internet.png
+c000000004CE81A8A000000000000074E
+t1290279562
+s1870
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/InvitationAccounts.xib
+c000000004CF019120000000000008582
+t1290803474
+s34178
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/InvitationsView.xib
+c000000004CD33F300000000000008489
+t1288912688
+s33929
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Light.png
+c000000004CE81AF60000000000000700
+t1290279670
+s1792
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/MainWindow.xib
+c000000004CF2CEEE000000000001D283
+t1290981102
+s119427
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Martini.png
+c000000004CE81B18000000000000068F
+t1290279704
+s1679
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/PartyHat.png
+c000000004CE81B420000000000000951
+t1290279746
+s2385
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Phone.png
+c000000004CE81B600000000000000700
+t1290279776
+s1792
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Pineapple.png
+c000000004CE81B840000000000000916
+t1290279812
+s2326
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/ResponsibilitiesView.xib
+c000000004CF1575600000000000079E8
+t1290884950
+s31208
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/ResponsibilityView.xib
+c000000004CF07E500000000000010DAF
+t1290829392
+s69039
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/RoomiesView.xib
+c000000004CF01F9C0000000000005C85
+t1290805148
+s23685
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Roomies_Prefix.pch
+c000000004CB8E26C00000000000000B7
+t1287185004
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/SettingsView.xib
+c000000004CCC3F260000000000008412
+t1288453926
+s33810
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Shopping.png
+c000000004CE81BA20000000000000634
+t1290279842
+s1588
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/TV.png
+c000000004CE81BCC000000000000076A
+t1290279884
+s1898
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Umbrella.png
+c000000004CE81BF000000000000007A3
+t1290279920
+s1955
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/add.png
+c000000004CF032D40000000000034E6E
+t1290810068
+s216686
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/annaMoney.png
+c000000004CF1771400000000000003B4
+t1290893076
+s948
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/billAdd.png
+c000000004CF15E6C0000000000000531
+t1290886764
+s1329
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/bubbles.jpg
+c000000004CE7F4A4000000000002284B
+t1290269860
+s141387
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/buddies_invite.png
+c000000004CE7F7BA0000000000032702
+t1290270650
+s206594
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app.dSYM
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/11-clock.png
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/Account.nib
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/AddBill2.png
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/BBQ.png
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/Bake.png
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/BillView.nib
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/BillsViewInfo.nib
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/Cake.png
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/CleanHouse.png
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/Cook.png
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/DefaultResponsibility.png
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/DropDown.png
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/EventView.nib
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/EventsView.nib
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/Fireworks.png
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/Food.png
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/IROOMIES.png
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/IROOMIES2.png
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/Info.plist
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/Internet.png
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/InvitationAccounts.nib
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/InvitationsView.nib
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/Light.png
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/MainWindow.nib
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/Martini.png
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/PartyHat.png
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/Phone.png
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/Pineapple.png
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/PkgInfo
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/ResourceRules.plist
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/ResponsibilitiesView.nib
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/ResponsibilityView.nib
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/Roomies
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/RoomiesView.nib
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/SettingsView.nib
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/Shopping.png
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/TV.png
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/Umbrella.png
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/add.png
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/annaMoney.png
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/billAdd.png
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/bubbles.jpg
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/buddies_invite.png
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/burgund2.png
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/burgund3.png
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/cook2.psd
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/dollar.png
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/events.png
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/house.png
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/iRoomiesinfo.nib
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/icon.png
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/map.png
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/money.png
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/money2.png
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/nav_grey2.png
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/papyr.png
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/piggy.png
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/preferences(2).png
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/profile.png
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/profile3.png
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/profile4.png
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/respons.png
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/shoppingcart.png
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/star.png
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/table.png
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/tableImage.png
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/AccountData.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/AccountInfoViewController.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/AddressBookViewController.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/ApplicationInfoViewController.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/AsyncSocket.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/BSAddressComponent.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/BSForwardGeocoder.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/BSGoogleV2KmlParser.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/BSGoogleV3KmlParser.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/BSKmlResult.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/BillData.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/BillViewController.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/BillsNavController.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/BillsViewController.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/CustomPlacemark.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/DDXMLDocument.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/DDXMLElement.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/DDXMLNode.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/EventData.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/EventViewController.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/EventsNavController.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/EventsViewController.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/InvitationAccounts.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/InvitationNavController.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/InvitationsViewController.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/InviteViewController.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/LibIDN.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/MulticastDelegate.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/NSDataAdditions.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/NSStringAdditions.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/NSXMLElementAdditions.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/Parser.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/RFSRVResolver.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/RespData.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/ResponNavController.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/ResponTableViewController.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/ResponsibilityViewController.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/RoomieData.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/Roomies
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/Roomies.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/RoomiesAppDelegate.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/RoomiesViewController.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/SettingsNavController.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/SettingsViewController.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/User.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/XMPPElement.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/XMPPIQ.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/XMPPJID.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/XMPPMessage.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/XMPPModule.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/XMPPParser.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/XMPPPresence.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/XMPPStream.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/AccountData.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/AccountInfoViewController.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/AddressBookViewController.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/ApplicationInfoViewController.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/AsyncSocket.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/BSAddressComponent.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/BSForwardGeocoder.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/BSGoogleV2KmlParser.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/BSGoogleV3KmlParser.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/BSKmlResult.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/BillData.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/BillViewController.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/BillsNavController.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/BillsViewController.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/CustomPlacemark.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/DDXMLDocument.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/DDXMLElement.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/DDXMLNode.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/EventData.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/EventViewController.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/EventsNavController.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/EventsViewController.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/InvitationAccounts.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/InvitationNavController.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/InvitationsViewController.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/InviteViewController.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/LibIDN.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/MulticastDelegate.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/NSDataAdditions.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/NSStringAdditions.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/NSXMLElementAdditions.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/Parser.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/RFSRVResolver.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/RespData.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/ResponNavController.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/ResponTableViewController.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/ResponsibilityViewController.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/RoomieData.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/Roomies
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/Roomies.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/RoomiesAppDelegate.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/RoomiesViewController.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/SettingsNavController.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/SettingsViewController.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/User.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/XMPPElement.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/XMPPIQ.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/XMPPJID.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/XMPPMessage.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/XMPPModule.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/XMPPParser.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/XMPPPresence.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/XMPPStream.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/burgund2.png
+c000000004CEF332000000000000062F9
+t1290744608
+s25337
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/burgund3.png
+c000000004CEFD37A000000000000683B
+t1290785658
+s26683
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/cook2.psd
+c000000004CF1AB8400000000000060BC
+t1290906500
+s24764
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/dollar.png
+c000000004CE818460000000000000830
+t1290278982
+s2096
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/events.png
+c000000004CF03CBC0000000000014491
+t1290812604
+s83089
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/house.png
+c000000004CE818A80000000000000923
+t1290279080
+s2339
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/iRoomiesinfo.xib
+c000000004CEFD04E0000000000004C7F
+t1290784846
+s19583
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/icon.png
+c000000004CDD9EE20000000000001B5F
+t1289592546
+s7007
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/libidn.a
+c000000004CED4692000000000013C63C
+t1290618514
+s1295932
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/main.m
+c000000004CCB1D960000000000000175
+t1288379798
+s373
+i<UIKit/UIKit.h>
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/map.png
+c000000004CD5A92A0000000000000899
+t1289070890
+s2201
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/money.png
+c000000004CF02DDE00000000000337FE
+t1290808798
+s210942
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/money2.png
+c000000004CF03E6E0000000000026135
+t1290813038
+s155957
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/nav_grey2.png
+c000000004CEF1804000000000000043D
+t1290737668
+s1085
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/papyr.png
+c000000004CEFCF4E0000000000048A85
+t1290784590
+s297605
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/piggy.png
+c000000004CCB863C000000000000057D
+t1288406588
+s1405
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/preferences(2).png
+c000000004CCB877200000000000007BD
+t1288406898
+s1981
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/profile.png
+c000000004CEFDD8E000000000000039C
+t1290788238
+s924
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/profile3.png
+c000000004CF00B2C00000000000014EB
+t1290799916
+s5355
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/profile4.png
+c000000004CF00FE80000000000001208
+t1290801128
+s4616
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/respons.png
+c000000004CF03A5E0000000000015D66
+t1290811998
+s89446
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/shoppingcart.png
+c000000004CCB92FA000000000000068B
+t1288409850
+s1675
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/star.png
+c000000004CCB8EFE0000000000000551
+t1288408830
+s1361
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/table.png
+c000000004CEFF06C0000000000002CA2
+t1290793068
+s11426
+
+N/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/tableImage.png
+c000000004CF012A20000000000006E68
+t1290801826
+s28264
+
+N/Users/bleakwood/Library/MobileDevice/Provisioning Profiles/551714DA-E679-4478-9E76-EF941270AFF0.mobileprovision
+c000000004CDCBC510000000000002BCE
+t1289534545
+s11214
+
+N/var/folders/ax/axqEV1n+F3SJwnXRPHfYN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Roomies_Prefix-efymmtfzyqbcyfazcshdgeaadvar/Roomies_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/ax/axqEV1n+F3SJwnXRPHfYN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Roomies_Prefix-hczjyrovagoypgdynwuogjdyfthx/Roomies_Prefix.pch.gch
+t2
+s0
+
+NRoomies-Info.plist
+c000000004CE93D6400000000000003E2
+t1290354020
+s994
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies313118947#313118947#0(130"[BEROR]CodeSign error: The entitlements file '/Users/bleakwood/Downloads/Roomies 3/Roomies/Classes/Entitlements.plist' is missing1(4@122"CodeSign error: The entitlements file '/Users/bleakwood/Downloads/Roomies 3/Roomies/Classes/Entitlements.plist' is missing313118947#18446744073709551615#0#0(1@0"0(0#1#0"8247620834010738688#0"0#
+
+CCodeSign "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app"
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/AccountData.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/AccountData.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/AccountInfoViewController.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/AccountInfoViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/AddressBookViewController.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/../AddressBookViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/ApplicationInfoViewController.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/ApplicationInfoViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/AsyncSocket.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/AsyncSocket.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/BSAddressComponent.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/../BSAddressComponent.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/BSForwardGeocoder.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/../BSForwardGeocoder.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/BSGoogleV2KmlParser.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/../BSGoogleV2KmlParser.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/BSGoogleV3KmlParser.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/../BSGoogleV3KmlParser.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/BSKmlResult.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/../BSKmlResult.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/BillData.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/BillData.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/BillViewController.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/BillViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/BillsNavController.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/BillsNavController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/BillsViewController.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/BillsViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/CustomPlacemark.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/../CustomPlacemark.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/DDXMLDocument.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/KissXML/DDXMLDocument.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/DDXMLElement.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/KissXML/DDXMLElement.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/DDXMLNode.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/KissXML/DDXMLNode.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/EventData.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/EventData.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/EventViewController.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/../EventViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/EventsNavController.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/EventsNavController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/EventsViewController.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/EventsViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/InvitationAccounts.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/InvitationAccounts.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/InvitationNavController.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/InvitationNavController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/InvitationsViewController.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/InvitationsViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/InviteViewController.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/InviteViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/LibIDN.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Utilities/LibIDN.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/MulticastDelegate.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Utilities/MulticastDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/NSDataAdditions.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/NSDataAdditions.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/NSStringAdditions.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/KissXML/NSStringAdditions.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/NSXMLElementAdditions.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/NSXMLElementAdditions.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/Parser.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Parser.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/RFSRVResolver.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Utilities/RFSRVResolver.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/RespData.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/RespData.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/ResponNavController.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/ResponNavController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/ResponTableViewController.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/ResponTableViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/ResponsibilityViewController.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/ResponsibilityViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/RoomieData.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/RoomieData.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/RoomiesAppDelegate.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/RoomiesAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/RoomiesViewController.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/RoomiesViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/SettingsNavController.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/SettingsNavController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/SettingsViewController.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/SettingsViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/User.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/User.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/XMPPElement.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Core/XMPPElement.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/XMPPIQ.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Core/XMPPIQ.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/XMPPJID.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Core/XMPPJID.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/XMPPMessage.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Core/XMPPMessage.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/XMPPModule.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Core/XMPPModule.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/XMPPParser.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Core/XMPPParser.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/XMPPPresence.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Core/XMPPPresence.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/XMPPStream.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Core/XMPPStream.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/main.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/AccountData.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/AccountData.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/AccountInfoViewController.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/AccountInfoViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/AddressBookViewController.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/../AddressBookViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/ApplicationInfoViewController.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/ApplicationInfoViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/AsyncSocket.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/AsyncSocket.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/BSAddressComponent.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/../BSAddressComponent.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/BSForwardGeocoder.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/../BSForwardGeocoder.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/BSGoogleV2KmlParser.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/../BSGoogleV2KmlParser.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/BSGoogleV3KmlParser.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/../BSGoogleV3KmlParser.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/BSKmlResult.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/../BSKmlResult.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/BillData.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/BillData.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/BillViewController.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/BillViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/BillsNavController.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/BillsNavController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/BillsViewController.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/BillsViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/CustomPlacemark.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/../CustomPlacemark.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/DDXMLDocument.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/KissXML/DDXMLDocument.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/DDXMLElement.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/KissXML/DDXMLElement.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/DDXMLNode.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/KissXML/DDXMLNode.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/EventData.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/EventData.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/EventViewController.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/../EventViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/EventsNavController.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/EventsNavController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/EventsViewController.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/EventsViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/InvitationAccounts.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/InvitationAccounts.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/InvitationNavController.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/InvitationNavController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/InvitationsViewController.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/InvitationsViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/InviteViewController.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/InviteViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/LibIDN.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Utilities/LibIDN.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/MulticastDelegate.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Utilities/MulticastDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/NSDataAdditions.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/NSDataAdditions.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/NSStringAdditions.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/KissXML/NSStringAdditions.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/NSXMLElementAdditions.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/NSXMLElementAdditions.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/Parser.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Parser.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/RFSRVResolver.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Utilities/RFSRVResolver.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/RespData.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/RespData.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/ResponNavController.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/ResponNavController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/ResponTableViewController.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/ResponTableViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/ResponsibilityViewController.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/ResponsibilityViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/RoomieData.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/RoomieData.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/RoomiesAppDelegate.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/RoomiesAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/RoomiesViewController.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/RoomiesViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/SettingsNavController.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/SettingsNavController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/SettingsViewController.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/SettingsViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/User.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/User.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/XMPPElement.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Core/XMPPElement.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/XMPPIQ.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Core/XMPPIQ.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/XMPPJID.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Core/XMPPJID.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/XMPPMessage.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Core/XMPPMessage.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/XMPPModule.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Core/XMPPModule.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/XMPPParser.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Core/XMPPParser.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/XMPPPresence.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Core/XMPPPresence.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/XMPPStream.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/Core/XMPPStream.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/main.o "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Account.xib"
+r0
+
+CCompileXIB "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/BillView.xib"
+r0
+
+CCompileXIB "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/Classes/BillsViewInfo.xib"
+r0
+
+CCompileXIB "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/EventView.xib"
+r0
+
+CCompileXIB "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/EventsView.xib"
+r0
+
+CCompileXIB "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/InvitationAccounts.xib"
+r0
+
+CCompileXIB "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/InvitationsView.xib"
+r0
+
+CCompileXIB "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/ResponsibilitiesView.xib"
+r0
+
+CCompileXIB "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/ResponsibilityView.xib"
+r0
+
+CCompileXIB "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/RoomiesView.xib"
+r0
+
+CCompileXIB "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/SettingsView.xib"
+r0
+
+CCompileXIB "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/iRoomiesinfo.xib"
+r0
+
+CCopyPNGFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/11-clock.png" 11-clock.png
+r0
+
+CCopyPNGFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/AddBill2.png" AddBill2.png
+r0
+
+CCopyPNGFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/BBQ.png" BBQ.png
+r0
+
+CCopyPNGFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/Bake.png" Bake.png
+r0
+
+CCopyPNGFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/Cake.png" Cake.png
+r0
+
+CCopyPNGFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/CleanHouse.png" CleanHouse.png
+r0
+
+CCopyPNGFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/Cook.png" Cook.png
+r0
+
+CCopyPNGFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/DefaultResponsibility.png" DefaultResponsibility.png
+r0
+
+CCopyPNGFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/DropDown.png" DropDown.png
+r0
+
+CCopyPNGFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/Fireworks.png" Fireworks.png
+r0
+
+CCopyPNGFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/Food.png" Food.png
+r0
+
+CCopyPNGFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/IROOMIES.png" IROOMIES.png
+r0
+
+CCopyPNGFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/IROOMIES2.png" IROOMIES2.png
+r0
+
+CCopyPNGFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/Internet.png" Internet.png
+r0
+
+CCopyPNGFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/Light.png" Light.png
+r0
+
+CCopyPNGFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/Martini.png" Martini.png
+r0
+
+CCopyPNGFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/PartyHat.png" PartyHat.png
+r0
+
+CCopyPNGFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/Phone.png" Phone.png
+r0
+
+CCopyPNGFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/Pineapple.png" Pineapple.png
+r0
+
+CCopyPNGFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/Shopping.png" Shopping.png
+r0
+
+CCopyPNGFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/TV.png" TV.png
+r0
+
+CCopyPNGFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/Umbrella.png" Umbrella.png
+r0
+
+CCopyPNGFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/add.png" add.png
+r0
+
+CCopyPNGFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/annaMoney.png" annaMoney.png
+r0
+
+CCopyPNGFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/billAdd.png" billAdd.png
+r0
+
+CCopyPNGFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/buddies_invite.png" buddies_invite.png
+r0
+
+CCopyPNGFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/burgund2.png" burgund2.png
+r0
+
+CCopyPNGFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/burgund3.png" burgund3.png
+r0
+
+CCopyPNGFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/dollar.png" dollar.png
+r0
+
+CCopyPNGFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/events.png" events.png
+r0
+
+CCopyPNGFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/house.png" house.png
+r0
+
+CCopyPNGFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/icon.png" icon.png
+r0
+
+CCopyPNGFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/map.png" map.png
+r0
+
+CCopyPNGFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/money.png" money.png
+r0
+
+CCopyPNGFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/money2.png" money2.png
+r0
+
+CCopyPNGFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/nav_grey2.png" nav_grey2.png
+r0
+
+CCopyPNGFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/papyr.png" papyr.png
+r0
+
+CCopyPNGFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/piggy.png" piggy.png
+r0
+
+CCopyPNGFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/preferences(2).png" preferences(2).png
+r0
+
+CCopyPNGFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/profile.png" profile.png
+r0
+
+CCopyPNGFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/profile3.png" profile3.png
+r0
+
+CCopyPNGFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/profile4.png" profile4.png
+r0
+
+CCopyPNGFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/respons.png" respons.png
+r0
+
+CCopyPNGFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/shoppingcart.png" shoppingcart.png
+r0
+
+CCopyPNGFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/star.png" star.png
+r0
+
+CCopyPNGFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/table.png" table.png
+r0
+
+CCopyPNGFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/tableImage.png" tableImage.png
+r0
+
+CCpResource build/Debug-iphoneos/Roomies.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+r0
+
+CCpResource build/Debug-iphoneos/Roomies.app/bubbles.jpg bubbles.jpg
+r0
+
+CCpResource build/Debug-iphoneos/Roomies.app/cook2.psd cook2.psd
+r0
+
+CCreateUniversalBinary "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/Roomies" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app.dSYM" "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/Roomies"
+r0
+
+CLd "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv6/Roomies" normal armv6
+r0
+
+CLd "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Roomies.build/Debug-iphoneos/Roomies.build/Objects-normal/armv7/Roomies" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/Info.plist" Roomies-Info.plist
+r0
+
+CProcessPCH /var/folders/ax/axqEV1n+F3SJwnXRPHfYN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Roomies_Prefix-efymmtfzyqbcyfazcshdgeaadvar/Roomies_Prefix.pch.gch Roomies_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/ax/axqEV1n+F3SJwnXRPHfYN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Roomies_Prefix-hczjyrovagoypgdynwuogjdyfthx/Roomies_Prefix.pch.gch Roomies_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessProductPackaging "/Users/bleakwood/Library/MobileDevice/Provisioning Profiles/551714DA-E679-4478-9E76-EF941270AFF0.mobileprovision" "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app/embedded.mobileprovision"
+r0
+
+CTouch "/Users/bleakwood/Downloads/Roomies xmpp new/Roomies/build/Debug-iphoneos/Roomies.app"
+r0
+
